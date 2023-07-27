@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include "variadic_functions.h"
-=======
-#include "variadic_functions.h"
-#include <stdio.h>
->>>>>>> d05386dfb2ad6dcd2412f8f1e372f92f6b6d0888
 
 /**
  * main - check the code
@@ -25,3 +20,4 @@ julien@ubuntu:~/0x0f. variadic functions$ gcc -Wall -pedantic -Werror -Wextra -s
 julien@ubuntu:~/0x0f. variadic functions$ ./a 
 1122
 500
+
