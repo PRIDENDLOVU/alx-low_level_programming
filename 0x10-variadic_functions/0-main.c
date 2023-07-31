@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+#include <stdio.h>
+#include "variadic_functions.h"
+=======
 #include "variadic_functions.h"
 #include <stdio.h>
+>>>>>>> d05386dfb2ad6dcd2412f8f1e372f92f6b6d0888
 
 /**
  * main - check the code
